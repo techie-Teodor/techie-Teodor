@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript, ReactJS, Bootstrap**
 
-- 📫 How to reach me **message on twitter**
+- 📫 You can reach me **via twitter**
 
 - ⚡ Fun fact **I'm a hardcore gamer**
 
