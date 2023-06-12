@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript, ReactJS, Bootstrap**
 
-- 📫 How to reach me **teodor.ti04@gmail.com**
+- 📫 How to reach me **message on twitter**
 
 - ⚡ Fun fact **I'm a hardcore gamer**
 
