@@ -39,4 +39,13 @@ If you want to discuss about it, feel free to contact me.
 <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/>
 </p>
 
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+<h2>Other skills</h2>
+<p align="left">
+<img src="https://upload.vectorlogo.zone/logos/adobe_illustrator/images/57bdc1fd-fa3d-4a30-98b9-baaac55e3e15.svg" alt="photoshop" width="40" height="40" />
+<img src="https://logodownload.org/wp-content/uploads/2019/10/lightroom-logo-0.png" alt="lightroom" width="40" height="40" />
+<img src="https://images.squarespace-cdn.com/content/v1/5272888ee4b0f3771e017ec9/3144c330-0720-43f5-a4c0-27dc5ff84abb/Final+Cut.png" alt="final-cut" width="40" height="40" />
+</p>
+
+<p aling="center">
+<img src="https://i.imgur.com/YU5RjqV.png"/>
+</p>
