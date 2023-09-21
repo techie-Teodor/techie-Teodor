@@ -38,5 +38,7 @@ If you want to discuss about it, feel free to contact me.
 <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/>
 </p>
 
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?quote=%E2%80%9CProgramming%20isn%27t%20about%20what%20you%20know%3B%20it%27s%20about%20what%20you%20can%20figure%20out.%E2%80%9D)](https://github.com/piyushsuthar/github-readme-quotes)
+
 > “Programming isn't about what you know; it's about what you can figure out.”
 > Chris Pine
