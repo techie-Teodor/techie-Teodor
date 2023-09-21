@@ -39,4 +39,4 @@ If you want to discuss about it, feel free to contact me.
 <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/>
 </p>
 
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal?theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
