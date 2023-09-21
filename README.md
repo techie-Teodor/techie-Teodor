@@ -7,7 +7,7 @@ Hi, nice to meet you. Let me introduce my profile in a few lines.
     <li>📍 Based in <b>Bucharest, Romania</b></li>
     <li>🌱 I'm currently learning <b>Full-Stack Engineer Career Path</b> by <b>codecademy</b> and <b>Python</b></li>
     <li>💬 You can ask me anything about <b>HTML, CSS, JavaScript and Bootstrap</b></li>
-    <li>📮 You can contact me directly here : <b>email TBD | <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="twitter" width="40" height="40"/>: @teodoriulian88</b>
+    <li>📮 You can contact me directly here : <b>email TBD | <br><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="twitter" width="25" height="25"/>: @teodoriulian88</b>
   </ul>
 Passionate about technology and web development, always looking for new challenges.
 <br>As a freelance web developer, I develop websites and interfaces in HTML, CSS, and JS, with a focus on responsive design and user experience.<br>
