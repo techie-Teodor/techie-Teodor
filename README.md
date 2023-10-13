@@ -7,7 +7,7 @@ Hi, nice to meet you. Let me introduce my profile in a few lines.
     <li>📍 Based in <b>Bucharest, Romania</b></li>
     <li>🌱 I'm currently learning <b>Full-Stack Engineer Career Path</b> by <b>codecademy</b> and <b>Python</b></li>
     <li>💬 You can ask me anything about <b>HTML, CSS, JavaScript and Bootstrap</b></li>
-    <li>📮 You can contact me directly here : <br>
+    <li>📮 You can contact me directly here : here<br>
 
   </ul>
 Passionate about technology and web development, always looking for new challenges.
