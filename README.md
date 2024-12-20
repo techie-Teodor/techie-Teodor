@@ -3,7 +3,7 @@
 <p width="45%">
 Hi, nice to meet you. Let me introduce my profile in a few lines.
   <ul>
-    <li>👨‍🔧 I'm an <b>Medical Equipment and Systems Analyst</b></li>
+    <li>👨‍🔧 I'm an <b>Cybernetics, Statistics and Informatics student and Systems Analyst</b></li>
     <li>📍 Based in <b>Bucharest, Romania</b></li>
     <li>🌱 I'm currently learning <b>Full-Stack Engineer Career Path</b> by <b>codecademy</b> and <b>Python</b></li>
     <li>💬 You can ask me anything about <b>HTML, CSS, JavaScript and Bootstrap</b></li>
