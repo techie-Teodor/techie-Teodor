@@ -1,4 +1,4 @@
-# Hi everyone, i'm Teodor (@teodoriulian88)
+# Hi everyone, i'm Teodor
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="45%" />
 <p width="45%">
 Hi, nice to meet you. Let me introduce my profile in a few lines.
